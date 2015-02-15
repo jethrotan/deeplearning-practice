@@ -6,3 +6,5 @@ practice advice tunning training
 2.http://ppaml.galois.com/wiki/
 3.http://www.thetalkingmachines.com/blog/
 4.http://www.cs.toronto.edu/~tijmen/gnumpy.html
+5.http://futureoflife.org/grants/large/initial
+6.http://futureoflife.org/misc/ai_conference
